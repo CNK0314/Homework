@@ -1,0 +1,17 @@
+table,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+    width: fit-content;
+    text-align: right;
+}
+th {
+    padding: 10px;
+    height: 50px;
+}
+td{
+    padding: 10px;
+    text-align: right;
+}
+.text{
+    vertical-align: text-top;
+}
